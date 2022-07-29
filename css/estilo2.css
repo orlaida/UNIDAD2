@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 *{
-font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat-Bold';
 
 }
 
@@ -16,17 +16,17 @@ body {
 	margin-left: 5%;
 	padding-right: 5%;
 color: white;
-background-color:  #02010a;
+background-color:  #F4F4F4;
 
 }
 
 header{
   padding: 25px ;
 
-background-color: #5b7989;
+background-color: #091319;
 
-border-radius: 10px;
-box-shadow: 2px 2px  #02010a;
+
+
 
 }
  a{
@@ -36,11 +36,11 @@ box-shadow: 2px 2px  #02010a;
 
 #menu-principal{
 float:right;
-
+ 
 }
 
 #central{
-  background-color: #82c3a6;
+  background-color: #02010a;
 
   }
 #central .img1{
@@ -98,9 +98,9 @@ transform: translate(20px,-5px);
 
 footer {
 display: flex;
-color: black;
+color: white;
 border-radius: 0 0 10px 10px;
-background: #C6d5c5;
+background: black;
 }
 
 footer div {
@@ -142,7 +142,7 @@ h1{
 
 }
 .img2,.img3{
-	width: 70%
+	width: 40%
 }
 }
 
